@@ -2,7 +2,7 @@
 * Ce programme peremet de jouer au jeu de Wythoff.
 * @author O.Gunes
 */
-class Wythoff2{
+class Wythoff{
 	final double PHI = (1+Math.sqrt(5))/2; //Constante mathématique utilisé pour deduire les positions gagnantes
 	int difficulte; //Difficulté du jeu
 	
